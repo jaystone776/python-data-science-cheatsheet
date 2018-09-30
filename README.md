@@ -1,4 +1,4 @@
-# 13张速查表，带你玩转 Python 数据科学
+# 14张速查表，带你玩转 Python 数据科学
 译自 DataCamp 的速查表，有兴趣的朋友可以在这里查看[英文原版](https://www.datacamp.com/community/data-science-cheatsheets)。
 
 欢迎扫描二维码关注我的 **呆鸟的Python数据分析** 公众号，虽然现在内容还比较少，但我会不断增加的。
